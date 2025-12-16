@@ -1,2 +1,4 @@
-primer texto del proyecto
+
+-desarrollo
+-test unitarios
 
