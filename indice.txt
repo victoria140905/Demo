@@ -1,4 +1,10 @@
 
+revision de codigo 
+test manua
+
+
+
 -desarrollo
 -test unitarios
+
 
